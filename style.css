@@ -1,1 +1,21 @@
+body {
+    background: url(geometric-natural-embroidery.jpg);
+    background-size: 70%;
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+    width: 100%;
+}
 
+#sky {
+    background: linear-gradient(rgb(210, 132, 15),rgba(202, 43, 43, 0.987), rgb(221, 221, 213));
+    height: 60%;
+    width: 100%;
+}
+
+#sun {
+    font-size: 60px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
