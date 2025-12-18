@@ -41,19 +41,13 @@ body {
 }
 
 #eiffel-tower {
-    height: 300px;
-    width: 200px;
+    height: 500px;
+    width: 230px;
     position: absolute;
     bottom: 220px;
-    left: 200px;
+    left: 190px;
 }
-#trees {
-    height: 300px;
-    width: 300px;
-    position: relative;
-    bottom: 300px;
-    right: 15px;
-}
+
 #building-2 {
     background: white;
     height: 100px;
@@ -70,4 +64,34 @@ body {
     position: relative;
     bottom: 45px;
     
+}
+#trees {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    bottom: 250px;
+    right: 300px;
+}
+#trees-2 {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    bottom: 250px;
+    left: 330px;
+}
+#trees-3 {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 350px;
+    left: 360px;
+    z-index: 10;
+}
+#trees-4 {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 350px;
+    right: 320px;
+    z-index: 10;
 }
