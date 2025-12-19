@@ -95,3 +95,9 @@ body {
     right: 320px;
     z-index: 10;
 }
+#walkway {
+    height: 600px;
+    width: 500px;
+    position: absolute;
+    left: 135px
+}
