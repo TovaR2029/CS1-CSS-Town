@@ -101,3 +101,18 @@ body {
     position: absolute;
     left: 135px
 }
+#bird {
+    height: 100px;
+    width: 80px;
+    position: absolute;
+    bottom: 530px;
+    left: 370px;
+}
+
+#people {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 410px;
+    left: 280px;
+}
